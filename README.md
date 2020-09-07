@@ -1,7 +1,7 @@
 <h1 align="center">Your project name</h1>
 
 <div align="center">
-   A solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
 
