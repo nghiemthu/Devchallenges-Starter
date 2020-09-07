@@ -1,11 +1,6 @@
 <h1 align="center">Your project name</h1>
 
 <div align="center">
- <a href="https://devchallenges.io/"><img src="https://firebasestorage.googleapis.com/v0/b/devchallenges-1234.appspot.com/o/logo_2.png?alt=media&token=a5155688-fbfa-4ece-b692-fe2326db7741" alt="Your project name" width="32"></a>
-</div>
-
-
-<div align="center">
    A solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
