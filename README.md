@@ -23,7 +23,6 @@
     <a href="https://your-url-to-the-challenge">
       Challenge
     </a>
-    <span> | </span>
   </h3>
 </div>
 
