@@ -1,23 +1,32 @@
+<h1 align="center">Your project name</h1>
 
-<h1 align="center">
-  <br>
-  <a href="https://devchallenges.io/"><img src="https://firebasestorage.googleapis.com/v0/b/devchallenges-1234.appspot.com/o/logo_2.png?alt=media&token=a5155688-fbfa-4ece-b692-fe2326db7741" alt="Your project name" width="50"></a>
-  <br>
-  Your project name
-  <br>
-</h1>
+<div align="center">
+ <a href="https://devchallenges.io/"><img src="https://firebasestorage.googleapis.com/v0/b/devchallenges-1234.appspot.com/o/logo_2.png?alt=media&token=a5155688-fbfa-4ece-b692-fe2326db7741" alt="Your project name" width="42"></a>
+</div>
 
 
- <p align="center">
+<div align="center">
    A solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-    <br />
-    <br />
-    <a href="https://your-demo-link.your-domain">View Demo</a>
-    ·
-    <a href="https://your-url-to-the-solution">Solution</a>
-    ·
-    <a href="https://your-url-to-the-challenge">Challenge</a>
-  </p>
+</div>
+
+
+<div align="center">
+  <h3>
+    <a href="https://your-demo-link.your-domain">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://your-url-to-the-solution">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://your-url-to-the-challenge">
+      Challenge
+    </a>
+    <span> | </span>
+  </h3>
+</div>
+
 
 <!-- TABLE OF CONTENTS -->
 
